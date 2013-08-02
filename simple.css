@@ -1,0 +1,130 @@
+  /* IMPORTANT */
+	html {
+		height: 100%;
+	}
+body {
+	font-family: Palatino nova;
+	text-align: left;
+}
+
+	#page-table {
+		height: 100%;
+		width: 100%;
+		padding: 0;
+		margin-right: auto;
+	    margin-left: auto;
+		border-collapse: collapse;
+		text-align: left;
+	}
+	#page-td {
+		height: 100%;
+		padding: 0;
+		vertical-align: middle;
+	}
+	div#global {
+		width: 18cm;
+		margin-right: auto;
+	    margin-left: auto;
+		text-align: left;
+		vertical-align: middle;
+	}
+
+	/* COSMÉTIQUE */
+	body {
+		background: none;
+	}
+	#page-table {
+		background: none;
+		color: black;
+	}
+	#page-table a {color: black; font-size: 11pt;}
+	div#global {
+		padding: 0px 0px;
+		border: 0px solid black;
+	}
+	div#global h1 {font-size: 24pt; font-family: Univers Next Arabic, serif; font-weight: 400; -moz-font-feature-settings: 'dlig'}
+	div#global h2 {font-size: 16pt; font-family: Univers Next Arabic, serif; font-weight:normal; -moz-font-feature-settings: 'onum'}
+    div#global h3 {font-size: 14pt; font-family: Univers Next Arabic, serif; font-weight: 400;}
+    div#global h4 {font-size: 16pt; font-family: Univers Next Arabic, serif; font-weight: 400;}
+	div#global p, div#global ul {font-family: Palatino nova, serif; font-size: 12pt; color:black; line-height: 12pt;}
+    div#global header  {font-family: Univers Next Arabic, serif;
+font-size: 10pt; -moz-font-feature-settings: 'dlig'; color:black;}
+    div#global footer  {font-family: Gabriola, serif;
+font-size: 0.9em; -moz-font-feature-settings: 'dlig'; color:black;}
+
+	/* COSMÉTIQUE */
+
+i {
+font-style:italic;
+}
+
+a {
+font-family: Univers Next Arabic, serif;
+color: black;
+font-size: 12pt;
+}
+
+a:visited {
+font-family: Univers Next Arabic, Univers LT 59 UltraCondensed;
+color: black;
+font-size: 12pt;
+}
+    
+footer{
+width: 100%;
+height: 50px;
+position: fixed;
+bottom: 0px;
+left: 0px; 
+text-align: center;
+-moz-font-feature-settings: 'smcp';
+}
+
+em {
+text-transform: uppercase;
+-moz-font-feature-settings: 'c2sc';
+	font-family: Palatino nova;
+	font-weight:bold;
+	font-style:normal;
+color:#0047AB;
+}
+
+strong {
+text-transform: uppercase;
+-moz-font-feature-settings: 'c2sc';
+font-family: Palatino nova;
+font-weight:bold;
+color:dimgrey;
+}
+
+h1 {
+  font-family: Univers Next Arabic;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: Univers Next Arabic;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+    header{
+width: 100%;
+height: 110px;
+position: relative;
+top: 0px; 
+left: 0px; 
+text-align: center;
+font-size: 24pt;
+font-family: Univers Next Arabic;
+}
+
+abbr {
+-moz-font-feature-settings: 'c2sc';
+}
+	
+@page {
+  margin: 27mm 27mm 27mm 27mm;
+  size: 7in 9.25in;
+  }
