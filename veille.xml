@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="simple_5.xsl" ?>
+<?xml-stylesheet type="text/css" href="simple.css"?>
+<veille>
+    <titre id=""></titre>
+    <auteur id="" aut=""></auteur>
+    <recap_mots_cles id="
+
+" />
+<recap_secteur id="
+
+" />
+  <generalites id="Généralités">
+
+		<item>
+		<description></description>
+		<url></url>
+		<mots_cles></mots_cles>
+		</item>
+		
+	</generalites>
+    
+    <fisc_gen id="Fiscalité : généralités">
+    
+		<item>
+		<description></description>
+		<url></url>
+		<mots_cles></mots_cles>
+		</item>
+		
+	</fisc_gen>
+	
+	<fisc_ent id="Fiscalité des entreprises">
+
+		<item>
+		<description></description>
+		<url></url>
+		<mots_cles></mots_cles>
+		</item>
+		
+		
+	</fisc_ent>
+    
+    <fisc_part id="Fiscalité des particuliers">
+
+		<item>
+		<description></description>
+		<url></url>
+		<mots_cles></mots_cles>
+		</item>
+
+
+	</fisc_part>
+	
+	<actu_sect id="Actualité sectorielle">
+		
+		<item>
+		<description></description>
+		<url></url>
+		<mots_cles></mots_cles>
+        <secteur></secteur>
+		</item>
+		
+
+	</actu_sect>
+	
+	<social id="Social">
+	
+		<item>
+		<description></description>
+		<url></url>
+		<mots_cles></mots_cles>
+		</item>
+
+	</social>
+</veille>
